@@ -1,12 +1,6 @@
 # hubot-ical-notifier
 
-Notifies schedule for tomorrow from registered iCal calendars at 9 pm every night
-
-## Installation
-
-In hubot project repo, run:
-
-`npm install hubot-ical-notifier --save`
+Notifies schedule for tomorrow from registered iCal calendars at 3:45 pm every day
 
 Then add **hubot-ical-notifier** to your `external-scripts.json`:
 
