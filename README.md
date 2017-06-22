@@ -2,6 +2,8 @@
 
 Notifies schedule for tomorrow from registered iCal calendars at 3:45 pm every day
 
+Can also call by using !today or !tomorrow.  Scheduled notification is aware of weekends, will give Monday's schedule on Fridays.
+
 Then add **hubot-ical-notifier** to your `external-scripts.json`:
 
 ```json
