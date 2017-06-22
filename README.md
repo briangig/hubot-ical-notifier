@@ -26,8 +26,8 @@ To show the list of registered calendars,
 hubot cal:list
 ```
 
-To clear all of the registered calendars,
+To clear all of the registered calendars (yes its spelled wrong),
 
 ```
-hubot cal:clear
+hubot cal:clere
 ```
